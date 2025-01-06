@@ -21,21 +21,14 @@ Before you start, ensure you have the following installed:
 brew install raylib
 
 
-	•	Make: For building the project.
-
-Getting Started
-	1.	Clone the repository:
-
-git clone https://github.com/fawwaz46/Tetris.git
-cd Tetris
 
 
-	2.	Build the project:
+	1.	Build the project:
 
 make
 
 
-	3.	Run the game:
+	2.	Run the game:
 
 make run
 
