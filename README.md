@@ -1,4 +1,3 @@
-Here’s a basic README for your project, assuming it’s a Tetris game built with Raylib in C++:
 
 Tetris
 
